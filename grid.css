@@ -253,3 +253,347 @@ body{
     font-size: 0.9rem;
     line-height: 3vh;
 }
+
+/* For screen size of S mobile */
+
+@media (min-width: 320px) and (max-width: 374px){
+    body{
+        overflow: visible;
+        height: 385vh;
+        background-color:hsla(0, 1%, 69%, 0.835)
+    }
+
+    #grid .grid1{
+        background-position: 55vw 2vh;
+        width: 96vw;
+        height: 90vh;
+    }
+
+    #grid .grid1 img{
+        width: 35px;
+        margin-left: 4vw;
+    }
+
+    #grid .grid1 h4{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid1 .p-1{
+        font-size: 1rem;
+        margin-top: 0.3vh;
+        margin-left: 12vw;
+    }
+
+    #grid .grid1 .p-2{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+
+    #grid .grid1 .p-3{
+        width: 90vw;
+        margin-left: 4vw;
+        line-height: 4vh;
+    }
+
+    #grid .grid2{
+        width: 96vw;
+        height: 50vh;
+        top: 95vh;
+        right:99vw;
+    }
+
+    #grid .grid2 img{
+        width: 35px;
+        margin-left: 4vw;
+    }
+
+    #grid .grid2 h4{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid2 .p-1{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid2 .p-2{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+
+    #grid .grid2 .p-3{
+        width: 90vw;
+        line-height: 4vh;
+        margin-left: 4vw;
+    }
+
+    #grid .grid3{
+        width: 96vw;
+        height: 106vh;
+        top: 275vh;
+        right: 198vw;
+    }
+
+    #grid .grid3 img{
+        width: 35px;
+        margin-left: 4vw;
+    }
+
+    #grid .grid3 h4{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid3 .p-1{
+        font-size: 1rem;
+        margin-left: 12vw; 
+    }
+
+    #grid .grid3 .p-2{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+
+    #grid .grid3 .p-3{
+        width: 90vw;
+        margin-left: 4vw;
+        line-height: 4vh;
+    }
+
+    #grid .grid4{
+        top: 40vh;
+        width: 96vw;
+    }
+
+    #grid .grid4 img{
+        margin-left: 4vw;
+        width: 35px;
+    }
+
+    #grid .grid4 h4{
+        margin-left: 12vw;
+        font-size: 1rem;
+    }
+
+    #grid .grid4 .p-1{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid4 .p-2{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+
+    #grid .grid4 .p-3{
+        width: 90vw;
+        margin-left: 4vw;
+        line-height: 4vh;
+    }
+
+    #grid .grid5{
+        width: 96vw;
+        top: 85vh;
+        left: -99vw;
+        height: 75vh;
+    }
+
+    #grid .grid5 img{
+        width: 35px;
+        margin-left: 4vw;
+    }
+
+    #grid .grid5 h4{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid5 .p-1{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid5 .p-2{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+
+    #grid .grid5 .p-3{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+}
+
+/* For M screen size */
+
+@media (min-width: 375px) and (max-width: 424px){
+    body{
+        overflow: visible;
+        height: 385vh;
+        background-color:hsla(0, 1%, 69%, 0.835)
+    }
+
+    #grid .grid1{
+        background-position: 55vw 2vh;
+        width: 96vw;
+        height: 78vh;
+    }
+
+    #grid .grid1 img{
+        width: 35px;
+        margin-left: 4vw;
+    }
+
+    #grid .grid1 h4{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid1 .p-1{
+        font-size: 1rem;
+        margin-top: 0.3vh;
+        margin-left: 12vw;
+    }
+
+    #grid .grid1 .p-2{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+
+    #grid .grid1 .p-3{
+        width: 90vw;
+        margin-left: 4vw;
+        line-height: 4vh;
+    }
+
+    #grid .grid2{
+        width: 96vw;
+        height: 50vh;
+        top: 83vh;
+        right:99vw;
+    }
+
+    #grid .grid2 img{
+        width: 35px;
+        margin-left: 4vw;
+    }
+
+    #grid .grid2 h4{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid2 .p-1{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid2 .p-2{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+
+    #grid .grid2 .p-3{
+        width: 90vw;
+        line-height: 4vh;
+        margin-left: 4vw;
+    }
+
+    #grid .grid3{
+        width: 96vw;
+        height: 106vh;
+        top: 275vh;
+        right: 198vw;
+    }
+
+    #grid .grid3 img{
+        width: 35px;
+        margin-left: 4vw;
+    }
+
+    #grid .grid3 h4{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid3 .p-1{
+        font-size: 1rem;
+        margin-left: 12vw; 
+    }
+
+    #grid .grid3 .p-2{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+
+    #grid .grid3 .p-3{
+        width: 90vw;
+        margin-left: 4vw;
+        line-height: 4vh;
+    }
+
+    #grid .grid4{
+        top: 40vh;
+        width: 96vw;
+    }
+
+    #grid .grid4 img{
+        margin-left: 4vw;
+        width: 35px;
+    }
+
+    #grid .grid4 h4{
+        margin-left: 12vw;
+        font-size: 1rem;
+    }
+
+    #grid .grid4 .p-1{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid4 .p-2{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+
+    #grid .grid4 .p-3{
+        width: 90vw;
+        margin-left: 4vw;
+        line-height: 4vh;
+    }
+
+    #grid .grid5{
+        width: 96vw;
+        top: 85vh;
+        left: -99vw;
+        height: 75vh;
+    }
+
+    #grid .grid5 img{
+        width: 35px;
+        margin-left: 4vw;
+    }
+
+    #grid .grid5 h4{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid5 .p-1{
+        font-size: 1rem;
+        margin-left: 12vw;
+    }
+
+    #grid .grid5 .p-2{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+
+    #grid .grid5 .p-3{
+        width: 90vw;
+        margin-left: 4vw;
+    }
+}
