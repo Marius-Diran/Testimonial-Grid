@@ -431,14 +431,14 @@ body{
 @media (min-width: 375px) and (max-width: 424px){
     body{
         overflow: visible;
-        height: 385vh;
+        height: 335vh;
         background-color:hsla(0, 1%, 69%, 0.835)
     }
 
     #grid .grid1{
         background-position: 55vw 2vh;
         width: 96vw;
-        height: 78vh;
+        height: 76vh;
     }
 
     #grid .grid1 img{
@@ -470,8 +470,8 @@ body{
 
     #grid .grid2{
         width: 96vw;
-        height: 50vh;
-        top: 83vh;
+        height: 47vh;
+        top: 80vh;
         right:99vw;
     }
 
@@ -503,8 +503,8 @@ body{
 
     #grid .grid3{
         width: 96vw;
-        height: 106vh;
-        top: 275vh;
+        height: 86vh;
+        top: 244vh;
         right: 198vw;
     }
 
@@ -535,7 +535,7 @@ body{
     }
 
     #grid .grid4{
-        top: 40vh;
+        top: 41vh;
         width: 96vw;
     }
 
@@ -569,7 +569,7 @@ body{
         width: 96vw;
         top: 85vh;
         left: -99vw;
-        height: 75vh;
+        height: 65vh;
     }
 
     #grid .grid5 img{
