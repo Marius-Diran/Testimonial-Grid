@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,500;0,600;1,500;1,600&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color:hsl(240, 3%, 93%);
+    overflow-y: hidden;
+}
+
+#grid{
+    margin-top: 2vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 4vh;
+    column-gap: 3vw;
+}
+
+#grid .grid1{
+    background-image: url(Images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 30vw 0vh;
+    position: relative;
+    margin-left: 2vw;
+    border-radius: 2vh;
+    width: 43vw;
+    height: 47vh;
+    background-color:hsl(263, 55%, 52%);
+}
+
+#grid .grid1 img{
+    border: 1px solid white;
+    border-radius: 5vh;
+    margin-top: 4vh;
+    margin-left: 3vw;
+}
+
+#grid .grid1 h4{
+    color:hsl(0, 0%, 100%);
+    position: absolute;
+    top: 4vh;
+    left: 7vw;
+}
+
+#grid .grid1 .p-1{
+    color:hsl(0, 0%, 81%);
+    position: absolute;
+    top: 7vh;
+    left: 7vw;
+}
+
+#grid .grid1 .p-2{
+    color:hsl(0, 0%, 100%);
+    margin-top: 2vh;
+    margin-left: 3vw;
+    font-weight: 600;
+    width: 39vw;
+    font-size: 1.4rem;
+}
+
+#grid .grid1 .p-3{
+    color:hsl(0, 0%, 81%);
+    width: 39vw;
+    margin-left: 3vw;
+    margin-top: 2.8vh;
+    font-size: 0.9rem;
+    line-height: 3vh
+}
+
+#grid .grid2{
+    background-color: hsl(217, 19%, 35%);
+    position: relative;
+    border-radius: 2vh;
+    width: 23vw;
+    height: 47vh;
+}
+
+#grid .grid2 img{
+    border: 1px solid white;
+    border-radius: 5vh;
+    margin-left: 2vw;
+    margin-top: 4vh;
+}
+
+#grid .grid2 h4{
+    color:hsl(0, 0%, 100%);
+    position: absolute;
+    top: 4vh;
+    left: 6vw;
+}
+
+#grid .grid2 .p-1{
+    color:hsl(0, 0%, 81%);
+    position: absolute;
+    top: 7vh;
+    left: 6vw;
+}
+
+#grid .grid2 .p-2{
+    color:hsl(0, 0%, 100%);
+    width: 17vw;
+    font-weight: 600;
+    margin-left: 2vw;
+    margin-top: 2vh;
+    font-size: 1.5rem
+}
+
+#grid .grid2 .p-3{
+    color:hsl(0, 0%, 81%);
+    width: 17vw;
+    margin-left: 2vw;
+    margin-top: 2vh;
+}
+
+#grid .grid3{
+    border-radius: 2vh;
+    width: 24vw;
+    height: 90vh;
+    position: relative;
+    right: 20vw;
+    background-color: hsl(0, 0%, 100%);
+}
+
+#grid .grid3 img{
+    border-radius: 5vh;
+    margin-top: 4vh;
+    margin-left: 2vw;
+}
+
+#grid .grid3 h4{
+    color:hsl(217, 19%, 35%);
+    position: absolute;
+    top: 4vh;
+    left: 6vw;
+}
+
+#grid .grid3 .p-1{
+    color:hsl(0, 0%, 81%);
+    position: absolute;
+    top: 7vh;
+    left: 6vw;
+}
+
+#grid .grid3 .p-2{
+    color:hsl(217, 19%, 35%);
+    width: 20vw;
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-left: 2vw;
+}
+
+#grid .grid3 .p-3{
+    color: hsla(217, 19%, 35%, 0.7);
+    width: 19vw;
+    margin-left: 2vw;
+    margin-top: 3vh;
+}
+
+#grid .grid4{
+    border-radius: 2vh;
+    background-color:hsl(0, 0%, 100%);
+    position: relative;
+    top: -44vh;
+    left: 2vw;
+    width: 25vw;
+    height: 40vh;
+}
+
+#grid .grid4 img{
+    border-radius: 5vh;
+    margin-left: 2vw;
+    margin-top: 3vh;
+}
+
+#grid .grid4 h4{
+    color:hsl(217, 19%, 35%);
+    position: absolute;
+    top: 3vh;
+    left: 6vw;
+}
+
+#grid .grid4 .p-1{
+    color:hsl(0, 0%, 81%);
+    position: absolute;
+    top: 6vh;
+    left: 6vw;
+}
+
+#grid .grid4 .p-2{
+    color: hsl(217, 19%, 35%);
+    font-weight: 600;
+    font-size: 1.5rem;
+    width: 17vw;
+    margin-left: 2vw;
+}
+
+#grid .grid4 .p-3{
+    color:hsla(217, 19%, 35%, 0.7);
+    width: 18vw;
+    margin-top: 2vh;
+    margin-left: 2vw;
+}
+
+#grid .grid5{
+    border-radius: 2vh;
+    position: relative;
+    top: -44vh;
+    left: -19vw;
+    height: 40vh;
+    width: 42.5vw;
+    background-color: hsl(219, 29%, 14%);
+}
+
+#grid .grid5 img{
+    border: 1px solid hsl(263, 55%, 52%);
+    border-radius: 5vh;
+    margin-left: 2vw;
+    margin-top: 3vh;
+}
+
+#grid .grid5 h4{
+    color:hsl(0, 0%, 100%);
+    position: absolute;
+    top: 3vh;
+    left: 6vw;
+}
+
+#grid .grid5 .p-1{
+    color:hsl(0, 0%, 100%);
+    position: absolute;
+    top: 6vh;
+    left: 6vw;
+}
+
+#grid .grid5 .p-2{
+    color:hsl(0, 0%, 100%);
+    margin-left: 2vw;
+    margin-top: 1vh;
+    font-weight: 600;
+    font-size: 1.5rem;
+    width: 40vw;
+}
+
+#grid .grid5 .p-3{
+    color: hsl(0, 0%, 81%);
+    width: 38vw;
+    margin-top: 2vh;
+    margin-left: 2vw;
+    font-size: 0.9rem;
+    line-height: 3vh;
+}
