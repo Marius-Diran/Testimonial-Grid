@@ -622,7 +622,7 @@ body{
 @media (min-width: 425px) and (max-width: 767px){
     body{
         overflow: visible;
-        height: 318vh;
+        height: 274vh;
         background-color:hsla(0, 1%, 69%, 0.835)
     }
 
@@ -663,7 +663,7 @@ body{
 
     #grid .grid2{
         width: 96vw;
-        height: 42vh;
+        height: 38vh;
         top: 58vh;
         right:99vw;
     }
@@ -684,25 +684,27 @@ body{
     }
 
     #grid .grid2 .p-2{
+        margin-top: 3vh;
         width: 90vw;
         margin-left: 4vw;
     }
 
     #grid .grid2 .p-3{
         width: 90vw;
-        line-height: 4vh;
+        margin-top: 3vh;
+        line-height: 3vh;
         margin-left: 4vw;
     }
 
     #grid .grid3{
         width: 96vw;
-        height: 82vh;
-        top: 231vh;
+        height: 70vh;
+        top: 199vh;
         right: 198vw;
     }
 
     #grid .grid3 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
@@ -718,23 +720,25 @@ body{
 
     #grid .grid3 .p-2{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
     }
 
     #grid .grid3 .p-3{
+        margin-top: 3vh;
         width: 90vw;
         margin-left: 4vw;
-        line-height: 4vh;
+        line-height: 3vh;
     }
 
     #grid .grid4{
-        top: 32vh;
+        top: 24vh;
         width: 96vw;
     }
 
     #grid .grid4 img{
         margin-left: 4vw;
-        width: 35px;
+        width: 40px;
     }
 
     #grid .grid4 h4{
@@ -744,29 +748,32 @@ body{
 
     #grid .grid4 .p-1{
         font-size: 1rem;
+        top: 5.8vh;
         margin-left: 12vw;
     }
 
     #grid .grid4 .p-2{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
     }
 
     #grid .grid4 .p-3{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
-        line-height: 4vh;
+        line-height: 3vh;
     }
 
     #grid .grid5{
         width: 96vw;
-        top: 76vh;
+        top: 66vh;
         left: -99vw;
-        height: 65vh;
+        height: 57vh;
     }
 
     #grid .grid5 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
@@ -782,11 +789,13 @@ body{
 
     #grid .grid5 .p-2{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
     }
 
     #grid .grid5 .p-3{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
     }
 }
