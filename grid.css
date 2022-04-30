@@ -259,18 +259,18 @@ body{
 @media (min-width: 320px) and (max-width: 374px){
     body{
         overflow: visible;
-        height: 385vh;
+        height: 310vh;
         background-color:hsla(0, 1%, 69%, 0.835)
     }
 
     #grid .grid1{
         background-position: 55vw 2vh;
         width: 96vw;
-        height: 90vh;
+        height: 70vh;
     }
 
     #grid .grid1 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
@@ -281,7 +281,7 @@ body{
 
     #grid .grid1 .p-1{
         font-size: 1rem;
-        margin-top: 0.3vh;
+        margin-top: -0.5vh;
         margin-left: 12vw;
     }
 
@@ -293,29 +293,29 @@ body{
     #grid .grid1 .p-3{
         width: 90vw;
         margin-left: 4vw;
-        line-height: 4vh;
+        line-height: 3vh;
     }
 
     #grid .grid2{
         width: 96vw;
-        height: 50vh;
-        top: 95vh;
+        height: 38vh;
+        top: 72vh;
         right:99vw;
     }
 
     #grid .grid2 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
     #grid .grid2 h4{
         font-size: 1rem;
-        margin-left: 12vw;
+        margin-left: 14vw;
     }
 
     #grid .grid2 .p-1{
         font-size: 1rem;
-        margin-left: 12vw;
+        margin-left: 14vw;
     }
 
     #grid .grid2 .p-2{
@@ -325,51 +325,54 @@ body{
 
     #grid .grid2 .p-3{
         width: 90vw;
-        line-height: 4vh;
+        line-height: 3vh;
+        margin-top: 3vh;
         margin-left: 4vw;
     }
 
     #grid .grid3{
         width: 96vw;
-        height: 106vh;
-        top: 275vh;
+        height: 86vh;
+        top: 219vh;
         right: 198vw;
     }
 
     #grid .grid3 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
     #grid .grid3 h4{
         font-size: 1rem;
-        margin-left: 12vw;
+        margin-left: 14vw;
     }
 
     #grid .grid3 .p-1{
         font-size: 1rem;
-        margin-left: 12vw; 
+        margin-left: 14vw; 
     }
 
     #grid .grid3 .p-2{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
     }
 
     #grid .grid3 .p-3{
         width: 90vw;
         margin-left: 4vw;
-        line-height: 4vh;
+        line-height: 3vh;
     }
 
     #grid .grid4{
-        top: 40vh;
+        height: 35vh;
+        top: 22vh;
         width: 96vw;
     }
 
     #grid .grid4 img{
         margin-left: 4vw;
-        width: 35px;
+        width: 40px;
     }
 
     #grid .grid4 h4{
@@ -378,51 +381,58 @@ body{
     }
 
     #grid .grid4 .p-1{
+        margin-top: -0.4vh;
         font-size: 1rem;
         margin-left: 12vw;
     }
 
     #grid .grid4 .p-2{
+        margin-top: 2vh;
         width: 90vw;
         margin-left: 4vw;
     }
 
     #grid .grid4 .p-3{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
-        line-height: 4vh;
+        line-height: 3vh;
     }
 
     #grid .grid5{
         width: 96vw;
-        top: 85vh;
+        top: 59vh;
         left: -99vw;
-        height: 75vh;
+        height: 68vh;
     }
 
     #grid .grid5 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
     #grid .grid5 h4{
         font-size: 1rem;
-        margin-left: 12vw;
+        margin-left: 14vw;
     }
 
     #grid .grid5 .p-1{
+        margin-top: -0.2vh;
         font-size: 1rem;
-        margin-left: 12vw;
+        margin-left: 14vw;
     }
 
     #grid .grid5 .p-2{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
     }
 
     #grid .grid5 .p-3{
         width: 90vw;
+        margin-top: 4vh;
         margin-left: 4vw;
+        line-height: 3vh;
     }
 }
 
@@ -431,18 +441,18 @@ body{
 @media (min-width: 375px) and (max-width: 424px){
     body{
         overflow: visible;
-        height: 335vh;
+        height: 290vh;
         background-color:hsla(0, 1%, 69%, 0.835)
     }
 
     #grid .grid1{
         background-position: 55vw 2vh;
         width: 96vw;
-        height: 76vh;
+        height: 60vh;
     }
 
     #grid .grid1 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
@@ -453,7 +463,6 @@ body{
 
     #grid .grid1 .p-1{
         font-size: 1rem;
-        margin-top: 0.3vh;
         margin-left: 12vw;
     }
 
@@ -465,29 +474,29 @@ body{
     #grid .grid1 .p-3{
         width: 90vw;
         margin-left: 4vw;
-        line-height: 4vh;
+        line-height: 3vh;
     }
 
     #grid .grid2{
         width: 96vw;
-        height: 47vh;
-        top: 80vh;
+        height: 38vh;
+        top: 62vh;
         right:99vw;
     }
 
     #grid .grid2 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
     #grid .grid2 h4{
         font-size: 1rem;
-        margin-left: 12vw;
+        margin-left: 14vw;
     }
 
     #grid .grid2 .p-1{
         font-size: 1rem;
-        margin-left: 12vw;
+        margin-left: 14vw;
     }
 
     #grid .grid2 .p-2{
@@ -497,34 +506,36 @@ body{
 
     #grid .grid2 .p-3{
         width: 90vw;
-        line-height: 4vh;
+        line-height: 3vh;
+        margin-top: 3vh;
         margin-left: 4vw;
     }
 
     #grid .grid3{
         width: 96vw;
-        height: 86vh;
-        top: 244vh;
+        height: 85vh;
+        top: 201vh;
         right: 198vw;
     }
 
     #grid .grid3 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
     #grid .grid3 h4{
         font-size: 1rem;
-        margin-left: 12vw;
+        margin-left: 14vw;
     }
 
     #grid .grid3 .p-1{
         font-size: 1rem;
-        margin-left: 12vw; 
+        margin-left: 14vw; 
     }
 
     #grid .grid3 .p-2{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
     }
 
@@ -535,13 +546,14 @@ body{
     }
 
     #grid .grid4{
-        top: 41vh;
+        height: 35vh;
+        top: 13vh;
         width: 96vw;
     }
 
     #grid .grid4 img{
         margin-left: 4vw;
-        width: 35px;
+        width: 40px;
     }
 
     #grid .grid4 h4{
@@ -550,51 +562,58 @@ body{
     }
 
     #grid .grid4 .p-1{
+        margin-top: -0.4vh;
         font-size: 1rem;
         margin-left: 12vw;
     }
 
     #grid .grid4 .p-2{
+        margin-top: 2vh;
         width: 90vw;
         margin-left: 4vw;
     }
 
     #grid .grid4 .p-3{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
-        line-height: 4vh;
+        line-height: 3vh;
     }
 
     #grid .grid5{
         width: 96vw;
-        top: 85vh;
+        top: 50vh;
         left: -99vw;
-        height: 65vh;
+        height: 60vh;
     }
 
     #grid .grid5 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
     #grid .grid5 h4{
         font-size: 1rem;
-        margin-left: 12vw;
+        margin-left: 14vw;
     }
 
     #grid .grid5 .p-1{
+        margin-top: -0.2vh;
         font-size: 1rem;
-        margin-left: 12vw;
+        margin-left: 14vw;
     }
 
     #grid .grid5 .p-2{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
     }
 
     #grid .grid5 .p-3{
         width: 90vw;
+        margin-top: 4vh;
         margin-left: 4vw;
+        line-height: 3vh;
     }
 }
 
@@ -610,11 +629,11 @@ body{
     #grid .grid1{
         background-position: 55vw 2vh;
         width: 96vw;
-        height: 68vh;
+        height: 56vh;
     }
 
     #grid .grid1 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
@@ -625,30 +644,32 @@ body{
 
     #grid .grid1 .p-1{
         font-size: 1rem;
-        margin-top: 0.3vh;
+        margin-top: -0.2vh;
         margin-left: 12vw;
     }
 
     #grid .grid1 .p-2{
         width: 90vw;
         margin-left: 4vw;
+        margin-top: 3vh;
     }
 
     #grid .grid1 .p-3{
         width: 90vw;
+        margin-top: 3vh;
         margin-left: 4vw;
-        line-height: 4vh;
+        line-height: 3vh;
     }
 
     #grid .grid2{
         width: 96vw;
         height: 42vh;
-        top: 72vh;
+        top: 58vh;
         right:99vw;
     }
 
     #grid .grid2 img{
-        width: 35px;
+        width: 40px;
         margin-left: 4vw;
     }
 
